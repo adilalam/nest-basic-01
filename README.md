@@ -1,3 +1,6 @@
+##### create nest cli project
+nest new di
+
 ###### start the application 
 npx ts-node-dev src/main.ts
 
